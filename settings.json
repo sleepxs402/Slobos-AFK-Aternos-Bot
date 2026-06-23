@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "kastibot",
+    "username": "neon2151512515",
     "password": "",
     "type": "online"
   },
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1518997831141163180/embDjZ1FqW2ZySS8RyFaw1DsSey78tmY49x7IXSS6R2BrBlJ6ABSAxTt8tSkbO-TfY51",
     "events": {
       "connect": true,
       "disconnect": true,
