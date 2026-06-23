@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "kastibot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "kasti21151.aternos.me",
