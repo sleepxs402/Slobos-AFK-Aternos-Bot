@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -61,7 +61,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
